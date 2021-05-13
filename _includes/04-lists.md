@@ -18,3 +18,7 @@ Adding one ordered and one unordered list here:
 * Step-2
     * Substep -1 
     * Substep -2
+
+Came back for emoji:
+
+:+1: :tada:
